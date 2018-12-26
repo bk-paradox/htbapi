@@ -1,0 +1,17 @@
+{
+  "search": {
+    "username": "paradoxum",
+    "userid": 63032
+  },
+  "api": {
+    "username": "paradoxum",
+    "password": "YOURPASSWORDHERE",
+    "email": "your@email.com",
+    "userid": 63032
+  },
+  "url": {
+    "machines": "https://www.hackthebox.eu/home/machines/list",
+    "login": "https://www.hackthebox.eu/login",
+    "profile": "https://www.hackthebox.eu/home/machines/profile/"
+  }
+}
